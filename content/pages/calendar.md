@@ -4,13 +4,137 @@ title: Calendar
 uid: 7bc2c0cd-2d8a-e004-7314-9a9e094357b5
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1-3 | Overview of Some Odd Phenomena |  |
-| 4 | Overview of Some Odd Phenomena (cont.) | Assignment 1 due |
-| 5-6 | The Mathematical Formalism and Its Orthodox Interpretation | Assignment 2 due  {{< br >}}  {{< br >}}Assignment 3 due |
-| 7-8 | The Mathematical Formalism and Its Orthodox Interpretation (cont.) |  |
-| 9-16 | The Measurement Problem and Attempted Solutions |  {{< br >}}{{< br >}} Assignment 4 due {{< br >}}{{< br >}} Assignment 5 due {{< br >}}{{< br >}} Assignment 6 due {{< br >}}{{< br >}} Assignment 7 due {{< br >}}{{< br >}} Assignment 8 due {{< br >}}{{< br >}}  |
-| 17-19 | Hidden Variables and Proofs of Their Impossibility | Assignment 9 due |
-| 20-22 | Quantum Extravagances | Assignment 10 due |
-| 23-26 | Composition and Identical Particles |  {{< br >}}{{< br >}} Assignment 11 due {{< br >}}{{< br >}} Assignment 12 due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-3
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Some Odd Phenomena
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Some Odd Phenomena (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-6
+{{< tdclose >}}
+{{< tdopen >}}
+The Mathematical Formalism and Its Orthodox Interpretation
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due  
+  
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-8
+{{< tdclose >}}
+{{< tdopen >}}
+The Mathematical Formalism and Its Orthodox Interpretation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-16
+{{< tdclose >}}
+{{< tdopen >}}
+The Measurement Problem and Attempted Solutions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 4 due
+
+Assignment 5 due
+
+Assignment 6 due
+
+Assignment 7 due
+
+Assignment 8 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-19
+{{< tdclose >}}
+{{< tdopen >}}
+Hidden Variables and Proofs of Their Impossibility
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-22
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Extravagances
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-26
+{{< tdclose >}}
+{{< tdopen >}}
+Composition and Identical Particles
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 11 due
+
+Assignment 12 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

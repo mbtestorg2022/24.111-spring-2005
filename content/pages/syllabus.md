@@ -26,7 +26,36 @@ Grading
 
 The weekly homework assignments will contribute 70% of your grade, and class participation 30%. To make it easy for you to keep track of how you're doing, I will score the assignments on a scale of 1 to 7; I will also give you regular feedback on how well you are holding up your end of class discussion. (A rough guide: think of a day's participation as being scored on a 2-point scale. Score of 0: you didn't show up to class. Score of 1: you showed up, but sat there like a lump. Score of 2: you showed up, and participated in discussion in a way that demonstrated that you had done, and thought about, the reading. Score of 3 (yes, 3): you showed up, and made all our lives richer by your scintillating, insightful discussion of the day's topics.)
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework Assignments | 70% |
-| Class Participation | 30%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
