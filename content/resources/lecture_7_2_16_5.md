@@ -7,6 +7,7 @@ description: 'This file presents the statstical algorithm, axes and orthonomal b
   among spin states, Schrodinger?s Equation, and the ?collapse of the wave-function.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/4da1db652a2981360ea48b2ecbf82929_lecture_7_2_16_5.pdf
 file_type: application/pdf
+parent_uid: 2a9b7adb-0677-ce5a-8788-577a0a98f896
 resourcetype: Document
 title: lecture_7_2_16_5.pdf
 uid: 4da1db65-2a29-8136-0ea4-8b2ecbf82929
